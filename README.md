@@ -1,2 +1,2 @@
 # SprintNotes
-Activity Manager
+For me and my friends
